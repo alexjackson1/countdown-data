@@ -50,11 +50,11 @@ This dataset is provided in three variants:
 <div align="center">
 
 
-| **Dataset Variant** | **Dataset Name**           | **Download**                                                                   |
-| ------------------- | -------------------------- | ------------------------------------------------------------------------------ |
-| Random              | `countdown-numbers-3-8`    | [🤗 HuggingFace](https://huggingface.co/alexjackson17/countdown-numbers-3-8)    |
-| Random Solvable     | `countdown-numbers-3-8-nz` | [🤗 HuggingFace](https://huggingface.co/alexjackson17/countdown-numbers-3-8-nz) |
-| Coundown Game Rules | `countdown-numbers-6-gr`   | [🤗 HuggingFace](https://huggingface.co/alexjackson17/countdown-numbers-6-gr)   |
+| **Dataset Variant** | **Dataset Name**           | **Download**                                                                            |
+| ------------------- | -------------------------- | --------------------------------------------------------------------------------------- |
+| Random              | `countdown-numbers-3-8`    | [🤗 HuggingFace](https://huggingface.co/datasets/alexjackson17/countdown-numbers-3-8)    |
+| Random Solvable     | `countdown-numbers-3-8-nz` | [🤗 HuggingFace](https://huggingface.co/datasets/alexjackson17/countdown-numbers-3-8-nz) |
+| Coundown Game Rules | `countdown-numbers-6-gr`   | [🤗 HuggingFace](https://huggingface.co/datasets/alexjackson17/countdown-numbers-6-gr)   |
 
 
 </div>

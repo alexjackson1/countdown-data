@@ -125,7 +125,7 @@ The final distributions of scores and numbers are shown in the following histogr
 
 <div align="center">
 
-<img src="figures/  countdown_random_1m_distribution_comparison.png"/>
+<img src="figures/countdown_random_1m_distribution_comparison.png"/>
 
 </div>
 

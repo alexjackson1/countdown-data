@@ -67,28 +67,16 @@ The following histograms show the distribution of scores for each dataset varian
 
 #### Random Variant
 
-<div align="center">
-
 <img src="figures/random_3_8_1m_score_distribution.png" width="600"/>
-
-</div>
 
 
 #### Random Solvable (Score > 0) Variant
 
-<div align="center">
-
 <img src="figures/random_solvable_3_8_1m_score_distribution.png" width="600" />
-
-</div>
 
 #### Countdown Game Rules
 
-<div align="center">
-
 <img src="figures/countdown_score_distribution.png" width="500"/>
-
-</div>
 
 ---
 
@@ -108,27 +96,15 @@ The final distributions of scores and numbers are shown in the following histogr
 
 #### Random Variant
 
-<div align="center">
-
 <img src="figures/random_3_8_1m_distribution_comparison.png" width="600" />
-
-</div>
 
 #### Random Solvable (Score > 0) Variant
 
-<div align="center">
-
 <img src="figures/random_solvable_3_8_1m_distribution_comparison.png" width="600" />
-
-</div>
 
 #### Countdown Game Rules
 
-<div align="center">
-
 <img src="figures/countdown_random_1m_distribution_comparison.png" width="600" />
-
-</div>
 
 ---
 
